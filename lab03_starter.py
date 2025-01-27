@@ -109,3 +109,5 @@ else:
             else:
                 healthPoints -= mCombatStrength
                 print("The monster has reduced your health to: " + str(healthPoints))
+print("Game Over")
+
